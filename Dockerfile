@@ -1,6 +1,6 @@
-#REST API IMPLEMENTAION WITH EXPRESS...
-from node
-label maintainer sks@devops.com
+# REST API IMPLEMENTATION WITH EXPRESS...
+from node:12.14
+label maintainer dj@mwa-apps.com
 run mkdir /code
 add node.js /code/node.js
 add data.json /code/data.json
